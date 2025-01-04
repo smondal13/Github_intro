@@ -3,5 +3,6 @@ Shopping List:
 Apple
 Orange
 Bananas
-Cherreis
+Cherries
 Carrots
+Cereal
